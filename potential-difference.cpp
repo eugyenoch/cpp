@@ -1,3 +1,4 @@
+// Use C++ to write  program to find the potential difference in a circuit using the formular. PD=I*R
 #include <iostream>
 using namespace std;
 
